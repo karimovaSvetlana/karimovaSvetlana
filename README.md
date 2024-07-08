@@ -38,6 +38,8 @@
 
 
 ### GitHub Stats ⭐
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karimovaSvetlana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Svetlana's github stats](https://github-readme-stats.vercel.app/api?username=karimovaSvetlana&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 More information in my [LinkedIn](https://www.linkedin.com/in/sikarimova/) 🚀
