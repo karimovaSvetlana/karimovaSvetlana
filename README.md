@@ -33,6 +33,8 @@
 
 
 ### Certifications 📜
+- [Statistics](https://stepik.org/cert/2718049) @ Stepik
+- [Python](https://www.coursera.org/account/accomplishments/certificate/FC7GQUD96DAH) @ Coursera
 - [Data Visualization](https://www.coursera.org/account/accomplishments/certificate/ZE3Y2WHHJ4YC) @ Coursera
 - [R Programming](https://www.coursera.org/account/accomplishments/certificate/F5XEMZKZHFQH) @ Coursera
 
