@@ -6,7 +6,7 @@
 
 **Field of interests**: LLM, NLP, CV, RL
 
-**My telegram**: [TG](https://t.me/svet_ds)
+**My telegram**: [@svet_ds](https://t.me/svet_ds)
 
 <!-- **Curriculum Vitae**: [cv.pdf](https://github.com/karimovaSvetlana/karimovaSvetlana/blob/master/CV_Karimova%20Svetlana_DS.pdf) -->
 
