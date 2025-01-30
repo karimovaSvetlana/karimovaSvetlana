@@ -19,7 +19,7 @@
 ### Work experience 👔
 | Job Position                  | Company                    | Field                                 | Work Period       |
 | ----------------------------- | -------------------------- | ------------------------------------- | ----------------- |
-| **NLP-engineer**              | **Sberbank**               | **MLOps, LLM-development**            | **2024-06 — now** |
+| **NLP-engineer**              | **Sberbank**               | **AI Engineer, LLM-development**      | **2024-06 — now** |
 | Junior Data Scientist         | Sberbank                   | ML with Tabular Data, NLP             | 2023-02 — 2024-06 |
 | Product analyst               | Sberbank                   | Excel analytics & PowerPoint reports  | 2022-04 — 2023-02 |
 
