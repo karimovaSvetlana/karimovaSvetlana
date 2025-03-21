@@ -14,14 +14,15 @@
 - **Languages**:&nbsp;                         Python, SQL
 - **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Transformers
 - **Big Data**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop, Spark
-- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
+- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker, Kubernetes
 
 ### Work experience 👔
-| Job Position                  | Company                    | Field                                 | Work Period       |
-| ----------------------------- | -------------------------- | ------------------------------------- | ----------------- |
-| **NLP-engineer**              | **Sberbank**               | **AI Engineer, LLM-development**      | **2024-06 — now** |
-| Junior Data Scientist         | Sberbank                   | ML with Tabular Data, NLP             | 2023-02 — 2024-06 |
-| Product analyst               | Sberbank                   | Excel analytics & PowerPoint reports  | 2022-04 — 2023-02 |
+| Job Position                  | Field                                 | Work Period       |
+| ----------------------------- | ------------------------------------- | ----------------- |
+| **Data Scientist**            | **LLM/CV benchmark R&D, validation**  | **2024-02 — now** |
+| NLP-engineer                  | AI Engineer, LLM-development          | 2024-06 — 2024-02 |
+| Data Scientist                | ML with Tabular Data, NLP             | 2023-02 — 2024-06 |
+| Product analyst               | Excel analytics & PowerPoint reports  | 2022-04 — 2023-02 |
 
 ### Education 🎓
 - [Master’s Degree](https://github.com/karimovaSvetlana/HSE) @ Higher Scool of Economics, Financial Technologies and Data Analysis (2022 - 2024)
