@@ -1,7 +1,3 @@
-![](https://komarev.com/ghpvc/?username=karimovaSvetlana&color=36b812)<br>
-![](https://img.shields.io/github/followers/karimovaSvetlana?style=social)<br>
-![](https://img.shields.io/github/stars/karimovaSvetlana?style=social)<br>
-
 ### Hi, my name is Sveta 👋 and I ❤️ AI and Open-Source
 
 **Field of interests**: LLM, NLP, CV, ML
